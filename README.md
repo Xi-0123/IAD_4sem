@@ -16,3 +16,5 @@
 1. Установите зависимости:
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
+pip install thefuzz python-Levenshtein
+pip install deep-translator
